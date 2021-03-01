@@ -1,46 +1,58 @@
-
-*, ::before, ::after{
-    margin: 0; padding: 0;
-    box-sizing: border-box;
+.who{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+    background-color: blanchedalmond;
 }
 
-html {
-    font-family: 'Helvetica', sans-serif;
-}
-
-a {
-    color: black;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #EFF1ED;
-    text-decoration: underline;
-}
-
-.menu {
+.consulting{
     display: flex;
     flex-direction: row;
-    list-style: none;
-    justify-content: space-around;
+    justify-content: center;
 }
 
-header {
+.card-consulting{
+    display: flex;
+    flex-direction: column;
+}
+.consulting-txt{
+    margin-right: 35%;
+}
+
+.training{
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
-    background-color: #BCBD8B;
+    justify-content: center;
+    margin: 20%;
 }
 
-.logo img {
-    width: 20%;
+.pro{
+    display: flex;
+    justify-content: center;
 }
 
-.nav-menu {
-    width: 50%;
-    
+.helene{
+    display: flex;
+    justify-content: center;
 }
 
-.nav-links {
-    padding: 1%;
+.clement{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+.training-card{
+    margin-top: 2%;
+    margin-right: 3%;
+}
+
+.helene-card{
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+.clement-card{
+    margin-top: 2%;
+    margin-left: 2%;
 }
