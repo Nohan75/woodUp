@@ -6,8 +6,7 @@
     <title>Document</title>
 </head>
 <body>
-    <?php 
-        include "header.php"?>
+    <?php include "header.php"?>
     <div class="div-container">
 
         <div class="banner">
@@ -55,6 +54,6 @@
 
     </div>
 
-    
+    <?php include "footer.php"?>
 </body>
 </html>
