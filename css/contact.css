@@ -15,11 +15,113 @@
 body{
     font-family: Helvetica;
 }
+
+
 .banner{
-    background-color: red;
+    background-color: green;
     height: 70vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
+.contact-question{
+    background-color: #fff;
+    text-align: center;
+    width: 100%;
+}
+
 .check {
     display: flex;
     flex-direction: column;
 }
+.card-contact{
+    background: #000;
+    height: 280px;
+    width: 200px;
+}
+
+#how-to-contact{
+    display: flex;
+    justify-content: center;
+    margin-top: 60px;
+}
+
+#form{
+    margin-top: 40px;
+    display: flex;
+    justify-content: center;
+}
+#form form {
+    width: 50%;
+    font-size: 20px;
+}
+#form input {
+    outline: none;
+    border-style: none;
+    /* width: 50%;
+    height: 35px; */
+    border: 1px solid #000;
+    border-radius: 4px;
+    padding: 5px;
+    font-size: 18px;
+}
+#form textarea{
+    /* width: 280px;
+    height: 280px; */
+    width: 100%;
+    margin-bottom: 15px;
+    padding: 5px;
+    font-family: Helvetica;
+    font-size: 18px;
+}
+.name-input {
+    display: flex;
+    margin-bottom: 10px;
+}
+.name-input input {
+    width: 50%;
+}
+.name-input input:first-child{
+    margin-right: 5px;
+}
+.entreprise {
+    margin-bottom: 10px;
+}
+.entreprise input {
+    width: 100%;
+}
+.tel-input{
+    display: flex;
+    margin-bottom: 10px;
+}
+.tel-input input {
+    width: 100%;
+   }
+.tel-input input:first-child{
+    width: 40px;
+    margin-right: 5px;
+}
+.option-input {
+    margin-bottom: 10px;
+}
+.option-input select{
+    width: 100%;
+    font-size: 18px;
+}
+input[type="submit"]{
+    border-style: none;
+    outline: none;
+    border: 1px solid #000;
+    cursor: pointer;
+    width: 175px;
+    height: 40px;
+    border-radius: 10px;
+    background: #766153;
+    color: #EFF1ED;
+    transition: all 0.1s ease-in-out;
+}
+
+input[type="submit"]:hover{
+    transform: scale(1.05);
+}
+
