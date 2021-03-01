@@ -1,0 +1,25 @@
+/* 
+    PANEL COULEUR
+
+    #EFF1ED
+    #373D20
+    #717744
+    #BCBD8B
+    #766153
+*/
+
+*, ::before, ::after{
+    margin: 0;padding: 0;
+    box-sizing: border-box;
+}
+body{
+    font-family: Helvetica;
+}
+.banner{
+    background-color: red;
+    height: 70vh;
+}
+.check {
+    display: flex;
+    flex-direction: column;
+}
