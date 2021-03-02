@@ -27,7 +27,10 @@
       </header>
 
     <div class="who">
-        <h1>QUI SOMMES NOUS?</h1>
+        <h1>UNE QUESTION?</h1>
+        <h2>SI VOUS N'AVEZ PAS LA REPONSE A VOTRE QUESTION<br>
+        CONTACTEZ NOUS</h2>
+        <div class="a"><a href="contact.php"style="color:white;">CONTACT</a></div>
     </div>
         <div class="consulting">
             <div class="consulting-txt">

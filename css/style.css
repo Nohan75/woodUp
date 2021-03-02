@@ -1,6 +1,5 @@
 .who{
-    display: flex;
-    justify-content: center;
+    text-align: center;
     margin: 10%;
     background-color: #BCBD8B;
     padding: 3%;
@@ -62,4 +61,13 @@
 .clement-card{
     margin-top: 2%;
     margin-left: 2%;
+}
+
+.a{
+    margin: 0 auto;
+    margin-top: 1%;
+    border: 3px black groove;
+    background-color: black;
+    padding: 1%;
+     width: 200px;
 }
