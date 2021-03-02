@@ -1,0 +1,65 @@
+.who{
+    display: flex;
+    justify-content: center;
+    margin: 10%;
+    background-color: #BCBD8B;
+    padding: 3%;
+}
+
+.consulting{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+.card-consulting{
+    display: flex;
+    flex-direction: column;
+}
+.consulting-txt{
+    margin-right: 35%;
+}
+
+.training{
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    margin: 20%;
+}
+
+.training-txt{
+    border: 3px solid;
+    background-color: #BCBD8B;
+    padding: 3%;
+}
+
+.pro{
+    display: flex;
+    justify-content: center;
+}
+
+.helene{
+    display: flex;
+    justify-content: center;
+}
+
+.clement{
+    display: flex;
+    justify-content: center;
+    flex-direction: row-reverse;
+}
+
+.training-card{
+    margin-top: 2%;
+    margin-right: 3%;
+}
+
+.helene-card{
+    margin-top: 1%;
+    margin-right: 1%;
+}
+
+.clement-card{
+    margin-top: 2%;
+    margin-left: 2%;
+}
