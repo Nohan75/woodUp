@@ -3,7 +3,7 @@
 </head>
 <header>
         <div class="logo">
-          <img src="../img/logo-formation.png" alt="logo-formation">
+          <img src="img/logo-formation.png" alt="logo-formation">
         </div>
         <div class="nav-menu">
           <ul class="menu">

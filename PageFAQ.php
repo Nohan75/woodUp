@@ -9,145 +9,25 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
-        <header>
-          <div class="logo">
-            <img src="" alt="">
-          </div>
-          <div class="nav-menu">
-            <ul class="menu">
-              <li class="nav-links">A propos</li>
-              <li class="nav-links">Services</li>
-              <li class="nav-links">FAQ</li>
-              <li class="nav-links">Nous Contacter</li>
-              <li class="nav-links">Mon compte</li>
-            </ul>
-          </div>
-      </header>
-      </header>
+    <?php include "php/header.php" ?>
+    
 
     <div class="who">
         <h1>UNE QUESTION?</h1>
         <h2>SI VOUS N'AVEZ PAS LA REPONSE A VOTRE QUESTION<br>
         CONTACTEZ NOUS</h2>
-        <div class="a"><a href="contact.php"style="color:white;">CONTACT</a></div>
+        <div class="ab"><a href="contact.php"style="color:white;">CONTACT</a></div>
     </div>
-        <div class="consulting">
-            <div class="consulting-txt">
-                <h2>WOOD'UP CONSULTING</h2>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing</br>
-                     elit. Voluptatibus, id incidunt repellendus explicabo</br>
-                      maiores ab minima cum ut accusantium, amet accusamus! </br>
-                      Fugiat aspernatur minima numquam qui eaque vero commodi</br>
-                       cupiditate soluta modi, laborum quod explicabo officiis!</br>
-                        Nihil, repellendus animi? Voluptatum fuga, placeat voluptate</br>
-                         sint, nam perspiciatis iusto, magni tempore sed provident porro</br>
-                          velit! Est quas facilis dicta nesciunt praesentium.</br></br>
-                           Est at aliquid delectus, quis maxime sapiente nulla quaerat </br>
-                           doloribus possimus molestias, nam explicabo expedita reiciendis</br>
-                            cumque perspiciatis hic et tenetur, id in facilis! Molestias</br>
-                             deleniti esse, labore impedit, sint consequatur veritatis dolor</br>
-                               assumenda cum reiciendis, odio modi neque ipsum.</br> Voluptatum officia,
-                                corrupti id similique aliquam delectus explicabo aliquid optio sit</br>
-                                 quod a ullam adipisci sed hic? Necessitatibus sunt optio</br>
-                                  perferendis est odio temporibus corrupti dolore aspernatur,</br>
-                                   rem excepturi, soluta minima ab iure recusandae aliquid asperiores</br>
-                                    reprehenderit ea, consequuntur alias aliquam iusto adipisci ipsa?</br></br>
-                                     Itaque, a assumenda. Deserunt, consequatur ipsum nihil qui</br>
-                                      asperiores quaerat accusamus corrupti a iusto quas similique</br>
-                                       saepe necessitatibus, sapiente quos dignissimos veritatis dolorum</br>
-                                        consequuntur deleniti nisi sint aut perferendis dicta architecto!</br>
-                                         Eum quo provident ullam molestias! Dolorem beatae pariatur ad numquam</br>
-                                          sint explicabo dolores sequi, eligendi autem, eum optio laboriosam facere</br>
-                                           quas quaerat hic. Esse, nesciunt dicta!
-                </p>
-
-            </div>
-            <div class="card-consulting">
-
-            <div class="card-consulting1">
-                <img src="" alt="">
-                <p>h</p>
-            </div>
-            <div class="card-consulting2">
-                <img src="" alt="">
-                <p>p</p>
-            </div>
-        </div>
-        </div>
-
-    <div class="training">
-        <div class="training-card">
-            <img src="" alt="">
-            <p>p</p>
-        </div>
-        <div class="training-txt">
-            <h2>WOOD'UP FORMATION</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing</br>
-                elit. Voluptatibus, id incidunt repellendus explicabo</br>
-                 maiores ab minima cum ut accusantium, amet accusamus! </br>
-                 Fugiat aspernatur minima numquam qui eaque vero commodi</br>
-                  cupiditate soluta modi, laborum quod explicabo officiis!</br>
-                   Nihil, repellendus animi? Voluptatum fuga, placeat voluptate</br>
-                    sint, nam perspiciatis iusto, magni tempore sed provident porro</br>
-                     velit! Est quas facilis dicta nesciunt praesentium.</br></br>
-                      Est at aliquid delectus, quis maxime sapiente nulla quaerat </br>
-                      doloribus possimus molestias, nam explicabo expedita reiciendis</br>
-                       cumque perspiciatis hic et tenetur, id in facilis! Molestias</br>
-                        deleniti esse, labore impedit, sint consequatur veritatis dolor</br>
-                          assumenda cum reiciendis, odio modi neque ipsum.</br> Voluptatum officia,
-                           corrupti id similique aliquam delectus explicabo aliquid optio sit</br>
-                            quod a ullam adipisci sed hic? Necessitatibus sunt optio</br>
-                             perferendis est odio temporibus corrupti dolore aspernatur,</br>
-                              rem excepturi, soluta minima ab iure recusandae aliquid asperiores</br>
-                               reprehenderit ea, consequuntur alias aliquam iusto adipisci ipsa?</br></br>
-                                Itaque, a assumenda. Deserunt, consequatur ipsum nihil qui</br>
-                                 asperiores quaerat accusamus corrupti a iusto quas similique</br>
-                                  saepe necessitatibus, sapiente quos dignissimos veritatis dolorum</br>
-                                   consequuntur deleniti nisi sint aut perferendis dicta architecto!</br>
-                                    Eum quo provident ullam molestias! Dolorem beatae pariatur ad numquam</br>
-                                     sint explicabo dolores sequi, eligendi autem, eum optio laboriosam facere</br>
-                                      quas quaerat hic. Esse, nesciunt dicta!
-           </p>
-        </div>
+    <div class="questions">
+            <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
+            <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
+            <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
+            <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
+            <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
+            <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
+            <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
+            <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
     </div>
-    <div class="pro">
-        <h2>NOS PROFESSIONELS ET NOS FORMATEURS</h2>
-    </div>
-    <div class="helene">
-        <div class="helene-card">
-            <img src="" alt="">
-            <p>ppppp</p>
-        </div>
-        <div class="helene-txt">
-            <H2>Helene Bolliot</H2>
-            <p>Lorem ipsum dolor, sit amet consectetur
-                adipisicing elit. Adipisci</br> 
-                blanditiis aliquid nobis est
-                cupiditate maxime velit quia sed </br>
-                amet repellendus, autem commodi, ipsum maiores</br> 
-                 saepe dolorem natus 
-                dolores! Ipsa, esse?</p>
-        </div>
-    </div>
-    <div class="clement">
-        <div class="clement-card">
-            <img src="" alt="">
-            <p>ppppppp</p>
-        </div>
-        <div class="clement-txt">
-            <h2>Clement Lachaud</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur
-                adipisicing elit. Adipisci</br> 
-                blanditiis aliquid nobis est
-                cupiditate maxime velit quia sed </br>
-                amet repellendus, autem commodi, ipsum maiores</br> 
-                 saepe dolorem natus 
-                dolores! Ipsa, esse?</p>
-        </div>
-    </div>
-    <footer>
-
-    </footer>
+    <?php include "php/footer.php" ?>
 </body>
 </html>
