@@ -3,27 +3,12 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="stylesheet" href="css/style.css">
+  <link rel="icon" href="../img/LogoWoodUpW.png" type="image/png" sizes="16x16">
   <title>Wood'Up</title>
 </head>
 <body>
 
-
-  <header>
-      <div class="logo">
-        <img src="img/logo-formation.png" alt="logo-formation">
-      </div>
-      <div class="nav-menu">
-        <ul class="menu">
-          <li class="nav-links"><a href ="about.html">À propos</a></li>
-          <li class="nav-links"><a href = "services.html">Services</a></li>
-          <li class="nav-links"><a href = "faq.html">FAQ</a></li>
-          <li class="nav-links"><a href = "contact.html">Nous Contacter</a></li>
-          <li class="nav-links"><a href = "account.html">Mon compte</a></li>
-        </ul>
-      </div>
-  </header>
-
+  <?php include "header.php"?>
 
     <div class="div-container">
 
@@ -168,10 +153,6 @@
 
     </div>
 
-  <footer>
-
-    
-
-  </footer>
+    <?php include "footer.php"?>
 </body>
 </html>

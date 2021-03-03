@@ -9,22 +9,7 @@
     <link rel="stylesheet" href="css/style.css">
 </head>
 <body>
-    <header>
-        <header>
-          <div class="logo">
-            <img src="" alt="">
-          </div>
-          <div class="nav-menu">
-            <ul class="menu">
-              <li class="nav-links">A propos</li>
-              <li class="nav-links">Services</li>
-              <li class="nav-links">FAQ</li>
-              <li class="nav-links">Nous Contacter</li>
-              <li class="nav-links">Mon compte</li>
-            </ul>
-          </div>
-      </header>
-      </header>
+    <?php include "php/header.php" ?>
 
     <div class="who">
         <h1>QUI SOMMES NOUS?</h1>
@@ -57,26 +42,24 @@
                                          Eum quo provident ullam molestias! Dolorem beatae pariatur ad numquam</br>
                                           sint explicabo dolores sequi, eligendi autem, eum optio laboriosam facere</br>
                                            quas quaerat hic. Esse, nesciunt dicta!
-                </p>
+                </p><br>
+                <a href="#" id="contact-button">NOUS CONTACTER</a>
 
             </div>
             <div class="card-consulting">
 
             <div class="card-consulting1">
-                <img src="" alt="">
-                <p>h</p>
+
             </div>
             <div class="card-consulting2">
-                <img src="" alt="">
-                <p>p</p>
+                
             </div>
         </div>
         </div>
 
     <div class="training">
         <div class="training-card">
-            <img src="" alt="">
-            <p>p</p>
+
         </div>
         <div class="training-txt">
             <h2>WOOD'UP FORMATION</h2>
@@ -105,7 +88,8 @@
                                     Eum quo provident ullam molestias! Dolorem beatae pariatur ad numquam</br>
                                      sint explicabo dolores sequi, eligendi autem, eum optio laboriosam facere</br>
                                       quas quaerat hic. Esse, nesciunt dicta!
-           </p>
+           </p><br>
+           <a href="#" id="contact-button">NOTRE OFFRE</a>
         </div>
     </div>
     <div class="pro">
@@ -113,8 +97,7 @@
     </div>
     <div class="helene">
         <div class="helene-card">
-            <img src="" alt="">
-            <p>ppppp</p>
+            
         </div>
         <div class="helene-txt">
             <H2>Helene Bolliot</H2>
@@ -129,8 +112,7 @@
     </div>
     <div class="clement">
         <div class="clement-card">
-            <img src="" alt="">
-            <p>ppppppp</p>
+            
         </div>
         <div class="clement-txt">
             <h2>Clement Lachaud</h2>
@@ -143,8 +125,6 @@
                 dolores! Ipsa, esse?</p>
         </div>
     </div>
-    <footer>
-
-    </footer>
+    <?php include "php/footer.php" ?>
 </body>
 </html>
