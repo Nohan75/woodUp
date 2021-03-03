@@ -36,7 +36,7 @@
                 </div>
                 <div class="option-input">
                     <select name="option">
-                        <option value="">--Please choose an option--</option>
+                        <option value="">--Choisissez un objet--</option>
                         <option value="">Choix 1</option>
                         <option value="">Choix 2</option>
                         <option value="">Choix 3</option>
