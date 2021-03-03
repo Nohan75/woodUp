@@ -36,7 +36,7 @@
                 </div>
                 <div class="option-input">
                     <select name="option">
-                        <option value="">--Please choose an option--</option>
+                        <option value="">--Choisissez un objet--</option>
                         <option value="">Choix 1</option>
                         <option value="">Choix 2</option>
                         <option value="">Choix 3</option>
@@ -78,46 +78,38 @@
                             <input type="radio" name="contact" id="openingtime" value="openingtime">
                             <label for="openingtime">HORAIRE D'OUVERTURE</label>
                         </div>
-                        <table class="opening">
-                            <thead align="center">
-                                <td>Lundi</td>
-                                <td>Mardi</td>
-                                <td>Mercredi</td>
-                                <td>Jeudi</td>
-                                <td>Vendredi</td>
-                                <td>Samedi</td>
-                                <td>Dimanche</td>
-                            </thead>
-                            <tbody>
-                                <tr align="center">
-                                    <td>8h00<br>13h30</td>
-                                    <td>8h00<br>13h30</td>
-                                    <td>8h00<br>13h30</td>
-                                    <td>8h00<br>13h30</td>
-                                    <td>8h00<br>13h30</td>
-                                    <td>8h00<br>13h30</td>
-                                    <td>8h00<br>13h30</td>
+                        <div class="opening hidden">
+                            <table>
+                                <tr>
+                                    <td>Lundi</td>
+                                    <td align="right">08:00 - 18:00</td>
                                 </tr>
-                                <tr align="center">
-                                    <td>---</td>
-                                    <td>---</td>
-                                    <td>---</td>
-                                    <td>---</td>
-                                    <td>---</td>
-                                    <td>---</td>
-                                    <td>---</td>
+                                <tr>
+                                    <td>Mardi</td>
+                                    <td align="right">08:00 - 18:00</td>
                                 </tr>
-                                <tr align="center">
-                                    <td>14h00<br>18h00</td>
-                                    <td>14h00<br>18h00</td>
-                                    <td>14h00<br>18h00</td>
-                                    <td>14h00<br>18h00</td>
-                                    <td>14h00<br>18h00</td>
-                                    <td>14h00<br>18h00</td>
-                                    <td>14h00<br>18h00</td>
+                                <tr>
+                                    <td>Mercredi</td>
+                                    <td align="right">08:00 - 18:00</td>
                                 </tr>
-                            </tbody>
-                        </table>
+                                <tr>
+                                    <td>Jeudi</td>
+                                    <td align="right">08:00 - 18:00</td>
+                                </tr>
+                                <tr>
+                                    <td>Vendredi</td>
+                                    <td align="right">08:00 - 18:00</td>
+                                </tr>
+                                <tr>
+                                    <td>Samedi</td>
+                                    <td align="right">FERMÉ</td>
+                                </tr>
+                                <tr>
+                                    <td>Dimanche</td>
+                                    <td align="right">FERMÉ</td>
+                                </tr>
+                            </table>
+                        </div>
                     </div>
                 </div>
             </div>

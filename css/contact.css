@@ -37,7 +37,7 @@ body{
 .check {
     display: flex;
     flex-direction: column;
-    height: 150px;
+    max-height: 400px;
     justify-content: space-around;
 }
 .check div {
@@ -63,7 +63,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 60px;
-    margin-bottom: 40px;
+    margin-bottom: 90px;
 }
 
 #form{
@@ -179,6 +179,15 @@ input#show-mail:hover{
     margin-bottom: 20px;
 }
 
-.opening td{
-    width: 300px;
+.opening{
+    width: 70%;
+    border: 2px solid rgb(53, 53, 53);
+    padding: 5px;
+    border-radius: 10px;
+    background: rgb(223, 223, 223);
+    box-shadow: 4px 4px 10px #000;
+}
+
+.opening.hidden{
+    display: none;
 }
