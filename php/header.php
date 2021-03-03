@@ -1,9 +1,6 @@
-<head>
-<link rel="stylesheet" href="../css/style.css">
-</head>
 <header>
         <div class="logo">
-          <img src="../img/logo-formation.png" alt="logo-formation">
+          <a href="index.php"><img src="../img/logo-formation.png" alt="logo-formation"></a>
         </div>
         <div class="nav-menu">
           <ul class="menu">

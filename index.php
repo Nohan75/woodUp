@@ -4,11 +4,12 @@
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <link rel="icon" href="../img/LogoWoodUpW.png" type="image/png" sizes="16x16">
+  <link rel="stylesheet" href="css/style.css">
   <title>Wood'Up</title>
 </head>
 <body>
 
-  <?php include "header.php"?>
+  <?php include "php/header.php"?>
 
     <div class="div-container">
 
@@ -153,6 +154,6 @@
 
     </div>
 
-    <?php include "footer.php"?>
+    <?php include "php/footer.php"?>
 </body>
 </html>
