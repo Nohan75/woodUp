@@ -18,21 +18,40 @@ body{
 
 
 .banner{
-    background-color: green;
-    height: 70vh;
+    /* background-color: green; */
+    background-image:linear-gradient(rgba(239, 241, 237, 1), rgba(113, 119, 68, 0.5)), url('../img/bg_forest.jpg');
+    height: 40vh;
     display: flex;
     justify-content: center;
     align-items: center;
+    
 }
 .contact-question{
-    background-color: #fff;
+    background-color: rgba(255, 255, 255, 0.3);
     text-align: center;
     width: 100%;
+}
+.contact-question h1{
 }
 
 .check {
     display: flex;
     flex-direction: column;
+    height: 150px;
+    justify-content: space-around;
+}
+.check div {
+    display: flex;
+    flex-direction: column;
+    margin: 5px 0;
+}
+.check input[type="radio"]{
+    width: 20px;
+    height: 20px;
+}
+.check label {
+    margin-left: 5px;
+    margin-top: 2px;
 }
 .card-contact{
     background: #000;
@@ -44,6 +63,7 @@ body{
     display: flex;
     justify-content: center;
     margin-top: 60px;
+    margin-bottom: 40px;
 }
 
 #form{
@@ -125,3 +145,40 @@ input[type="submit"]:hover{
     transform: scale(1.05);
 }
 
+.info-contact {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 35%;
+    margin-left: 15px;
+}
+.info-contact p{
+    text-align: justify;
+}
+.div-input{
+    display: flex;
+    flex-direction: row !important;
+    margin-bottom: 20px;
+}
+
+input#show-tel{
+    height: 30px;
+    padding: 3px;
+}
+input#show-tel:hover{
+    cursor: text;
+}
+input#show-mail{
+    height: 30px;
+    padding: 3px;
+}
+input#show-mail:hover{
+    cursor: text;
+}
+.time-choice {
+    margin-bottom: 20px;
+}
+
+.opening td{
+    width: 300px;
+}
