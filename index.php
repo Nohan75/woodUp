@@ -6,6 +6,7 @@
   <link rel="icon" href="../img/LogoWoodUpW.png" type="image/png" sizes="16x16">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/effects.css">
   <title>Wood'Up</title>
 </head>
 <body>
@@ -164,7 +165,7 @@
                 <img src="../img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
               </div>
 
-              <div class="trainer-card-txt">
+              <div class="trainer-card-txt flip-2-hor-top-2">
                 <h2>CLÉMENT LACHAUD</h2>
                   <a href="contact.php" id="contact-button"> DÉCOUVRIR </a>
               </div>
