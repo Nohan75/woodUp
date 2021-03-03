@@ -6,7 +6,7 @@
     <h1>N'HESITEZ PAS À NOUS CONTACTER !</h1>
 
     <div class="link-container">
-    <a href="#" id="contact-button">NOUS CONTACTER</a>
+        <a href="#" id="contact-button">NOUS CONTACTER</a>
     </div>
 </div>
 
