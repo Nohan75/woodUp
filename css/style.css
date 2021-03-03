@@ -1,8 +1,8 @@
 .who{
     text-align: center;
-    margin: 5%;
-    background-color: #BCBD8B;
-    padding: 3%;
+    margin-bottom: 5%;
+    background-image:linear-gradient(rgba(239, 241, 237, 1), rgba(113, 119, 68, 0.5)), url('../img/bg_forest.jpg');    padding: 7%;
+    text-shadow: black;
 }
 
 .questions{
@@ -22,11 +22,15 @@
     margin: 0 auto;
     margin-top: 1%;
     border: 3px black groove;
+    color: #EFF1ED;
     background-color: #766153;
     padding: 1%;
-     width: 200px;
+    width: 200px;
 }
-
+.ab:hover{
+    background-color: #EFF1ED;
+    color: black;
+}
 
 
 
