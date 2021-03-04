@@ -19,31 +19,21 @@
         <div class="consulting">
             <div class="consulting-txt">
                 <h2>WOOD'UP CONSULTING</h2>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing</br>
-                     elit. Voluptatibus, id incidunt repellendus explicabo</br>
-                      maiores ab minima cum ut accusantium, amet accusamus! </br>
-                      Fugiat aspernatur minima numquam qui eaque vero commodi</br>
-                       cupiditate soluta modi, laborum quod explicabo officiis!</br>
-                        Nihil, repellendus animi? Voluptatum fuga, placeat voluptate</br>
-                         sint, nam perspiciatis iusto, magni tempore sed provident porro</br>
-                          velit! Est quas facilis dicta nesciunt praesentium.</br></br>
-                           Est at aliquid delectus, quis maxime sapiente nulla quaerat </br>
-                           doloribus possimus molestias, nam explicabo expedita reiciendis</br>
-                            cumque perspiciatis hic et tenetur, id in facilis! Molestias</br>
-                             deleniti esse, labore impedit, sint consequatur veritatis dolor</br>
-                               assumenda cum reiciendis, odio modi neque ipsum.</br> Voluptatum officia,
-                                corrupti id similique aliquam delectus explicabo aliquid optio sit</br>
-                                 quod a ullam adipisci sed hic? Necessitatibus sunt optio</br>
-                                  perferendis est odio temporibus corrupti dolore aspernatur,</br>
-                                   rem excepturi, soluta minima ab iure recusandae aliquid asperiores</br>
-                                    reprehenderit ea, consequuntur alias aliquam iusto adipisci ipsa?</br></br>
-                                     Itaque, a assumenda. Deserunt, consequatur ipsum nihil qui</br>
-                                      asperiores quaerat accusamus corrupti a iusto quas similique</br>
-                                       saepe necessitatibus, sapiente quos dignissimos veritatis dolorum</br>
-                                        consequuntur deleniti nisi sint aut perferendis dicta architecto!</br>
-                                         Eum quo provident ullam molestias! Dolorem beatae pariatur ad numquam</br>
-                                          sint explicabo dolores sequi, eligendi autem, eum optio laboriosam facere</br>
-                                           quas quaerat hic. Esse, nesciunt dicta!
+                <p><h3>Notre vision</h3><br>
+
+Nous avons grandi entourés de forêts et les avons vues vivre,<br> grandir, changer. Nous avons entendu parler d’environnement,<br>
+ d’énergie, d’économie, de climat, d’emploi, et de crises.<br> Et si la forêt était une solution à tout cela ? <br>
+Pour comprendre la forêt, il faut la connaître.<br><br> Le métier de forestier n’est pas fait que de connaissances<br> 
+forestières et de techniques. La forêt est subtile, pleine d’imprévus<br> mais aussi d’émotions et de découvertes. <br> 
+La forêt se ressent, s’écoute et impose son rythme.<br> Les arbres nous apprennent à attendre, à laisser faire le temps. <br><br>
+
+C’est de notre passion pour la forêt, notre amour pour<br> les arbres qu’est née Wood’Up. Et c’est notre volonté de <br>
+transmettre ce respect de la sylve et notre savoir-faire technique<br> qui en a fait une entreprise innovante.<br><br>
+Nous nous sommes donné pour missions de sensibiliser<br> et agir pour la forêt, le climat et la biodiversité.<br> 
+De favoriser la préservation des écosystèmes forestiers.<br> De contribuer au développement économique,<br>
+ social et environnemental des pays et des régions <br>dans lesquels nous exerçons nos activités.<br> 
+ De valoriser les forêts et la ressource bois.<br> De trouver des solutions durables et<br>
+  d’améliorer la qualité de vie de nos<br> collaborateurs, clients et partenaires.
                 </p><br>
                 <a href="#" id="contact-button">NOUS CONTACTER</a>
 
@@ -64,32 +54,19 @@
 
         </div>
         <div class="training-txt">
-            <h2>WOOD'UP FORMATION</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing</br>
-                elit. Voluptatibus, id incidunt repellendus explicabo</br>
-                 maiores ab minima cum ut accusantium, amet accusamus! </br>
-                 Fugiat aspernatur minima numquam qui eaque vero commodi</br>
-                  cupiditate soluta modi, laborum quod explicabo officiis!</br>
-                   Nihil, repellendus animi? Voluptatum fuga, placeat voluptate</br>
-                    sint, nam perspiciatis iusto, magni tempore sed provident porro</br>
-                     velit! Est quas facilis dicta nesciunt praesentium.</br></br>
-                      Est at aliquid delectus, quis maxime sapiente nulla quaerat </br>
-                      doloribus possimus molestias, nam explicabo expedita reiciendis</br>
-                       cumque perspiciatis hic et tenetur, id in facilis! Molestias</br>
-                        deleniti esse, labore impedit, sint consequatur veritatis dolor</br>
-                          assumenda cum reiciendis, odio modi neque ipsum.</br> Voluptatum officia,
-                           corrupti id similique aliquam delectus explicabo aliquid optio sit</br>
-                            quod a ullam adipisci sed hic? Necessitatibus sunt optio</br>
-                             perferendis est odio temporibus corrupti dolore aspernatur,</br>
-                              rem excepturi, soluta minima ab iure recusandae aliquid asperiores</br>
-                               reprehenderit ea, consequuntur alias aliquam iusto adipisci ipsa?</br></br>
-                                Itaque, a assumenda. Deserunt, consequatur ipsum nihil qui</br>
-                                 asperiores quaerat accusamus corrupti a iusto quas similique</br>
-                                  saepe necessitatibus, sapiente quos dignissimos veritatis dolorum</br>
-                                   consequuntur deleniti nisi sint aut perferendis dicta architecto!</br>
-                                    Eum quo provident ullam molestias! Dolorem beatae pariatur ad numquam</br>
-                                     sint explicabo dolores sequi, eligendi autem, eum optio laboriosam facere</br>
-                                      quas quaerat hic. Esse, nesciunt dicta!
+            <h2>WOOD'UP FORMATION</h2><br>
+            <h3>L’outil numérique innovant pour gérer vos bois de manière autonome !</h3><br>
+            <p>Vous êtes propriétaire de bois et souhaitez des réponses à vos questions ? <br> Vous souhaitez être conseillé pour savoir comment <br> résoudre une problématique sur votre bois et sa gestion ? <br><br>
+            Wood’up Formation vous donne les solutions et les réponses à vos questions. <br>
+            Nous sommes Hélène Bolliot et Clément Lachaud. Nous sommes ingénieurs forestiers. <br> Nous avons créé cette plateforme pour aider les propriétaires <br> à résoudre toutes leurs problématiques liées à leurs bois. <br><br>
+            Notre aide est dédiée aux petits et grands propriétaires. <br><br>
+
+Formateurs : <br><br>
+
+Fondatrice et Président <br>
+Hélène Bolliot
+
+
            </p><br>
            <a href="#" id="contact-button">NOTRE OFFRE</a>
         </div>
@@ -118,13 +95,10 @@
         </div>
         <div class="clement-txt">
             <h2>Clement Lachaud</h2>
-            <p>Lorem ipsum dolor, sit amet consectetur
-                adipisicing elit. Adipisci</br> 
-                blanditiis aliquid nobis est
-                cupiditate maxime velit quia sed </br>
-                amet repellendus, autem commodi, ipsum maiores</br> 
-                 saepe dolorem natus 
-                dolores! Ipsa, esse?</p>
+            <p>Entrepreneure dans l’âme, j’ai décidé de me lancer  très tôt dans l’aventure <br>de la création d’entreprise. À 23 ans, j’ai fondé Wood’Up avec une ambition claire :<br> valoriser les forêts et les Hommes qui y travaillent. <br>
+                De Lille à Montpellier en passant par Nancy, Bruxelles et Paris, <br>j’ai sillonné la France et la Belgique pour tout connaître de mon métier. <br>Finalement, j’ai décidé de revenir m’installer dans me Picardie natale<br> pour ancrer mes projets dans un territoire qui me tient à cœur.
+                <br>J’interviens principalement sur la moitié Nord de la France,<br> de la Bourgogne aux hauts de France !
+            </p>
         </div>
     </div>
     <?php include "php/footer.php" ?>
