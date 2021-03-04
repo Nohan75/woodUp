@@ -149,11 +149,11 @@
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="../img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="../img/bg_forest.jpg" alt="forest image" width="50%" length="60%">
               </div>
 
-              <div class="trainer-card-txt">
-                <h2>HÉLÈNE BOLLIOT</h2>
+              <div class="trainer-card-txt flip-2-hor-top-2">
+                <h2>HÉLÈNE<br>BOLLIOT</h2>
                   <a href="contact.php" id="contact-button"> DÉCOUVRIR </a>
               </div>
 
@@ -162,11 +162,11 @@
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="../img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="../img/bg_forest.jpg" alt="forest image" width="50%" length="60%">
               </div>
 
               <div class="trainer-card-txt flip-2-hor-top-2">
-                <h2>CLÉMENT LACHAUD</h2>
+                <h2>CLÉMENT<br>LACHAUD</h2>
                   <a href="contact.php" id="contact-button"> DÉCOUVRIR </a>
               </div>
 

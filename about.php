@@ -17,33 +17,17 @@
         <div class="consulting">
             <div class="consulting-txt">
                 <h2>WOOD'UP CONSULTING</h2>
-                <p>Lorem ipsum, dolor sit amet consectetur adipisicing</br>
-                     elit. Voluptatibus, id incidunt repellendus explicabo</br>
-                      maiores ab minima cum ut accusantium, amet accusamus! </br>
-                      Fugiat aspernatur minima numquam qui eaque vero commodi</br>
-                       cupiditate soluta modi, laborum quod explicabo officiis!</br>
-                        Nihil, repellendus animi? Voluptatum fuga, placeat voluptate</br>
-                         sint, nam perspiciatis iusto, magni tempore sed provident porro</br>
-                          velit! Est quas facilis dicta nesciunt praesentium.</br></br>
-                           Est at aliquid delectus, quis maxime sapiente nulla quaerat </br>
-                           doloribus possimus molestias, nam explicabo expedita reiciendis</br>
-                            cumque perspiciatis hic et tenetur, id in facilis! Molestias</br>
-                             deleniti esse, labore impedit, sint consequatur veritatis dolor</br>
-                               assumenda cum reiciendis, odio modi neque ipsum.</br> Voluptatum officia,
-                                corrupti id similique aliquam delectus explicabo aliquid optio sit</br>
-                                 quod a ullam adipisci sed hic? Necessitatibus sunt optio</br>
-                                  perferendis est odio temporibus corrupti dolore aspernatur,</br>
-                                   rem excepturi, soluta minima ab iure recusandae aliquid asperiores</br>
-                                    reprehenderit ea, consequuntur alias aliquam iusto adipisci ipsa?</br></br>
-                                     Itaque, a assumenda. Deserunt, consequatur ipsum nihil qui</br>
-                                      asperiores quaerat accusamus corrupti a iusto quas similique</br>
-                                       saepe necessitatibus, sapiente quos dignissimos veritatis dolorum</br>
-                                        consequuntur deleniti nisi sint aut perferendis dicta architecto!</br>
-                                         Eum quo provident ullam molestias! Dolorem beatae pariatur ad numquam</br>
-                                          sint explicabo dolores sequi, eligendi autem, eum optio laboriosam facere</br>
-                                           quas quaerat hic. Esse, nesciunt dicta!
-                </p><br>
-                <a href="#" id="contact-button">NOUS CONTACTER</a>
+                <p>
+                Notre vision
+
+                Nous avons grandi entourés de forêts et les avons vues vivre, grandir, changer. Nous avons entendu parler d’environnement, d’énergie, d’économie, de climat, d’emploi, et de crises. Et si la forêt était une solution à tout cela ? 
+                Pour comprendre la forêt, il faut la connaître. Le métier de forestier n’est pas fait que de connaissances forestières et de techniques. La forêt est subtile, pleine d’imprévus mais aussi d’émotions et de découvertes. La forêt se ressent, s’écoute et impose son rythme. Les arbres nous apprennent à attendre, à laisser faire le temps. 
+                C’est de notre passion pour la forêt, notre amour pour les arbres qu’est née Wood’Up. Et c’est notre volonté de transmettre ce respect de la sylve et notre savoir-faire technique qui en a fait une entreprise innovante.
+                Nous nous sommes donné pour missions de sensibiliser et agir pour la forêt, le climat et la biodiversité. De favoriser la préservation des écosystèmes forestiers. De contribuer au développement économique, social et environnemental des pays et des régions dans lesquels nous exerçons nos activités. De valoriser les forêts et la ressource bois. De trouver des solutions durables et d’améliorer la qualité de vie de nos collaborateurs, clients et partenaires. 
+
+                </p>
+                <br>
+                <a href="contact.php" id="button-contact-about">NOUS CONTACTER</a>
 
             </div>
             <div class="card-consulting">
@@ -51,6 +35,7 @@
             <div class="card-consulting1">
 
             </div>
+            <br>
             <div class="card-consulting2">
                 
             </div>
@@ -92,15 +77,21 @@
            <a href="#" id="contact-button">NOTRE OFFRE</a>
         </div>
     </div>
+    <div class="transition-pannel">
+        <img src="../img/mainpage_about_img.jpg" alt="transition-img">
+    </div>
     <div class="pro">
         <h2>NOS PROFESSIONELS ET NOS FORMATEURS</h2>
+        <br>
     </div>
     <div class="helene">
         <div class="helene-card">
             
         </div>
         <div class="helene-txt">
+            <br>
             <H2>Helene Bolliot</H2>
+            <br>
             <p>Lorem ipsum dolor, sit amet consectetur
                 adipisicing elit. Adipisci</br> 
                 blanditiis aliquid nobis est
@@ -115,7 +106,9 @@
             
         </div>
         <div class="clement-txt">
+            <br>
             <h2>Clement Lachaud</h2>
+            <br>
             <p>Lorem ipsum dolor, sit amet consectetur
                 adipisicing elit. Adipisci</br> 
                 blanditiis aliquid nobis est

@@ -2,7 +2,6 @@
     margin: 0; padding: 0;
     box-sizing: border-box;
 }
-/*gftsyedguy*/
 html {
     font-family: 'Helvetica', sans-serif;
     color: rgb(53, 53, 53) !important;
@@ -66,12 +65,10 @@ footer{
     color: #EFF1ED;
     text-decoration: none;
     text-align: center;
-    padding: 2%;
+    padding: 3%;
     margin-top: 5%;
-}
-#contact-button:hover{
-    background-color: #EFF1ED;
-    color: black;
+    border: solid;
+    border-radius: 10px;
 }
 footer .left{
     display: flex;

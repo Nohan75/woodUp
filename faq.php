@@ -16,7 +16,7 @@
         <h1>UNE QUESTION?</h1>
         <h2>SI VOUS N'AVEZ PAS LA REPONSE A VOTRE QUESTION<br>
         CONTACTEZ NOUS</h2>
-        <div class="ab"><a href="contact.php"style="color:white;">CONTACT</a></div>
+        <a class="contact-button-faq" href="contact.php">CONTACT</a>
     </div>
     <div class="questions">
             <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
