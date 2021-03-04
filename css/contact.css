@@ -145,14 +145,25 @@ input[type="submit"]:hover{
 }
 
 .info-contact {
+    background-color: #EFF1ED;
+    padding: 7px;
+    border: 2px solid rgb(53, 53, 53);
+    border-radius: 10px;
     display: flex;
     flex-direction: column;
     justify-content: space-around;
     width: 75%;
     margin-left: 15px;
+    align-items: center;
+}
+.info-contact h1 {
+    margin-bottom: 20px;
 }
 .info-contact p{
     text-align: justify;
+    margin-bottom: 20px;
+    min-width: 250px;
+    width: 40%;
 }
 .div-input{
     display: flex;
