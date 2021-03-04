@@ -6,6 +6,8 @@
     <title>Document</title>
     <link rel="stylesheet" href="css/style.css">
     <link rel="stylesheet" href="css/services.css">
+    <link rel="stylesheet" href="css/header-responsive.css">
+    <link rel="stylesheet" href="css/footer-responsive.css">
 </head>
 <body>
     <?php include "php/header.php"?>
@@ -94,5 +96,6 @@
     </div>
 
     <?php include "php/footer.php"?>
+    <script src="js/app.js"></script>
 </body>
 </html>

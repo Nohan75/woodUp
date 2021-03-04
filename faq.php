@@ -7,6 +7,8 @@
     <title>Wood'up</title>
     <link rel="stylesheet" href="css/styleFAQ.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/header-responsive.css">
+    <link rel="stylesheet" href="css/footer-responsive.css">
 </head>
 <body>
     <?php include "php/header.php" ?>
@@ -29,5 +31,6 @@
             <div class="question-card"><h2>QUESTION</h2><br><p>Lorem ipsum dolor sit amet consectetur adipisicing elit.<br> Quibusdam accusantium aliquid commodi earum beatae quo magnam<br> eligendi optio nihil perferendis, hic voluptates reprehenderit <br>voluptatem, accusamus veniam fugiat illo quas architecto.</p></div>
     </div>
     <?php include "php/footer.php" ?>
+    <script src="js/app.js"></script>
 </body>
 </html>

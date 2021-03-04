@@ -7,7 +7,7 @@
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/index.css">
   <link rel="stylesheet" href="css/header-responsive.css">
-  <link rel="stylesheet" href="css/header-responsive.css">
+  <link rel="stylesheet" href="css/footer-responsive.css">
   <title>Wood'Up</title>
 </head>
 <body>
