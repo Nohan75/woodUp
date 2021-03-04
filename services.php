@@ -13,7 +13,7 @@
     <div class="div-container">
 
         <div class="service-banner">
-            <h1>NOS SERVICE</h1>
+            <h1>NOS SERVICES</h1>
         </div>
 
         <section class="articles-table">

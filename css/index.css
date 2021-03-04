@@ -1,35 +1,4 @@
-*, ::before, ::after{
-    margin: 0; padding: 0;
-    box-sizing: border-box;
-}
 
-html {
-    font-family: 'Helvetica', sans-serif;
-}
-
-a {
-    color: black;
-    text-decoration: none;
-}
-
-a:hover {
-    color: #EFF1ED;
-    text-decoration: underline;
-}
-
-.menu {
-    display: flex;
-    flex-direction: row;
-    list-style: none;
-    justify-content: space-around;
-}
-
-header {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    background-color: #BCBD8B;
-}
 .div-container{
     width: 100%;
 }
@@ -128,13 +97,13 @@ footer .right input{
 
 .card-about {
     border: solid;
-    max-width: 30%;
+    max-width: 40%;
     background-color:#EFF1ED;
-    margin-left: 45%;
-    margin-top: 18%;
+    margin-left: 35%;
+    margin-top: 15%;
     padding: 20px;
     border-radius: 15px;
-
+    font-size: 1.2em;
 }
 
 .service-txt {
@@ -142,6 +111,7 @@ footer .right input{
     margin-top: 80px;
     max-width: 75%;
     text-align: center;
+    font-size: 1.4em;
 }
 
 .banner {
@@ -163,14 +133,15 @@ footer .right input{
 
 .about-img {
     position: absolute;
-    top: -70%;
-    left: 25%;
+    top: -50%;
+    left: 10%;
     z-index: -1;
 }
 
 .about-img img {
     border: solid;
     border-radius: 15px;
+    width: 50%;
 }
 
 .card-service-container {
@@ -190,6 +161,9 @@ footer .right input{
     height: 90%;
     position: relative;
     margin-top: 5%;
+}
+.card-service p{
+    font-size: 1.2em;
 }
 
 
@@ -301,9 +275,8 @@ footer .right input{
 
 .trainer-card-img{
     width: 100%;
-    height: 100%;
     position: absolute;
-    top: -180px;
+    top: -100px;
     left: 0px;
     z-index: -1;
     border-radius: 15px;
@@ -311,6 +284,7 @@ footer .right input{
 .trainer-card-img img {
     border: solid;
     border-radius: 15px;
+    width: 45%;
 }
 
 .trainer-card-txt{
@@ -324,4 +298,55 @@ footer .right input{
     justify-content: center;
     background-color:#EFF1ED;
     padding: 20px;
+}
+.carousel-inner {
+    height: 350px;
+    background-image:linear-gradient(rgb(255, 255, 255), rgba(113, 119, 68, 0.5)), url('../img/bg_forest.jpg');
+}
+
+.carousel-caption {
+    font-family: 'Helvetica', sans-serif;
+    color: black;
+    text-shadow: none;
+    text-align: justify;
+    margin-left: 220px;
+    top: 10px;
+    font-size: 1.2em;
+    
+}
+
+.carousel-inner img {
+    margin-top: 5%;
+    margin-left: 200px;
+    height: 10%;
+    width: 10%;
+    border-radius: 20px;
+}
+
+
+  .carousel-inner > .item > a > img {
+    width: 90%;
+    margin: auto;
+    text-decoration: none;
+  }
+
+  .carousel-indicators li{
+    display:inline-block;
+    width:20px;
+    height:20px;
+    margin:5px;
+    text-indent:-999px;
+    cursor:pointer;
+    background-color: black;
+    border:1px solid black;
+    border-radius:10px;
+}
+
+.carousel-indicators .active{
+    width:20px;
+    height:20px;
+    margin:5px;
+    background-color: #EFF1ED;
+    border:1px solid #000000;
+    border-radius:10px;
 }
