@@ -14,24 +14,16 @@
 
     <div class="div-container">
 
-      <div class="banner">
-
+    <div class="banner">
+        <h1>
+        WOOD'UP FORMATIONS </br>VOUS ACCOMPAGNE DANS </br>VOS PROBLÉMATIQUES </br>FORRESTIÈRES ET BIEN PLUS
+        </h1>
+        <a href="services.php" id="services-button">DÉCOUVRIR NOS SERVICES</a>
       </div>
 
 
-      <section class="about">
-
-
-        <div class="about-img">
-
-        </div>
-
-
-        <section class="about">
-
-
           <div class="about-img">
-            <img src="../img/mainpage_about_img.jpg" alt="forest image" width="40%" length="40%">
+            <img src="img/mainpage_about_img.jpg" alt="forest image" width="40%" length="40%">
           </div>
           
 
@@ -65,7 +57,7 @@
               </div>
 
               <div id="coaching-img">
-                <img src="../img/mainpage_coaching_img.jpg" alt="forest image" width="400" length="400">
+                <img src="img/mainpage_coaching_img.jpg" alt="forest image" width="400" length="400">
               </div>
 
             </div>
@@ -79,7 +71,7 @@
               </div>
 
               <div id="formation-img">
-                <img src="../img/mainpage_formation_img.jpg" alt="forest image" width="400" length="400">
+                <img src="img/mainpage_formation_img.jpg" alt="forest image" width="400" length="400">
               </div>
 
             </div>
@@ -148,7 +140,7 @@
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="../img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
               </div>
 
               <div class="trainer-card-txt">
@@ -161,7 +153,7 @@
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="../img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
               </div>
 
               <div class="trainer-card-txt">

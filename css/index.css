@@ -87,6 +87,7 @@ footer{
     margin-left: 5%;
     margin-top: 1%;
     max-width: 12%;
+    margin-left: 45%;
 }
 #services-button:hover{
     background-color: #EFF1ED;
@@ -154,6 +155,8 @@ footer .right input{
     padding-bottom: 8%;
     background-image:linear-gradient(rgba(239, 241, 237, 1), rgba(113, 119, 68, 0.5)), url('../img/bg_forest.jpg');
     margin-bottom: 27%;
+    margin-top: 5%;
+    text-align: center;
 }
 
 .banner h1 {
@@ -253,7 +256,6 @@ footer .right input{
 }
 
 #formation-img{
-    width: 100%;
     height: 100%;
     position: absolute;
     top: -80px;
@@ -322,4 +324,103 @@ footer .right input{
     justify-content: center;
     background-color:#EFF1ED;
     padding: 20px;
+}
+@media screen and (max-width: 1280px){
+    .banner{
+        margin-top: 13%;
+    }
+    .card-about{
+        max-width: none;
+        margin-left: 5%;
+        margin-right: 5%;
+    }
+    #coaching-img {
+        top: -95px;
+        left: 10px;
+    }
+    #coaching-img img{
+        width: 97%;
+        height: 136%;
+    }
+    .card-service {
+        padding-left: 0;
+        padding-right: 0;
+    }
+    #formation-img {
+        top: -95px;
+        left: 30px;
+        height: 113%;
+    }
+    #formation-img img {
+        border: solid;
+        width: 94%;
+        height: 120%;
+    }
+    #formation-txt{
+        padding: 6px;
+    }
+}
+@media screen and (max-width: 1024px){
+    .banner{
+        margin-top: 13%;
+    }
+    #services-button{
+        padding-left: 9%;
+        padding-right: 9%;
+    }
+}
+@media screen and (max-width: 812px){
+    .banner{
+        margin-top: 23%;
+    }
+}
+@media screen and (max-width: 768px)
+{
+    .banner{
+        margin-top: 13%;
+    }
+}  
+@media screen and (max-width: 736px){
+    .banner{
+        margin-top: 30%;
+    }
+}
+@media screen and (max-width: 414px)
+{
+    .banner{
+        margin-top: 20%;
+        text-align: center;
+        font-size: 11px;
+    }
+    #services-button{
+        padding-left: 13%;
+        padding-right: 13%;
+    }
+}
+@media screen and (max-width: 411px)
+{
+    .banner{
+        margin-top: 21%;
+        font-size: 12px;
+    }
+}
+@media screen and (max-width: 375px)
+{
+    .banner{
+        margin-top: 22%;
+        text-align: center;
+        font-size: 11px;
+    }
+}
+@media screen and (max-width: 360px)
+{
+    .banner{
+        margin-top: 22%;
+    }
+}
+@media screen and (max-width: 320px)
+{
+    .banner{
+        margin-top: 24%;
+    }
 }
