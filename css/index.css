@@ -121,7 +121,6 @@ footer .right input{
     padding-bottom: 8%;
     background-image:linear-gradient(rgba(239, 241, 237, 1), rgba(113, 119, 68, 0.5)), url('../img/bg_forest.jpg');
     margin-bottom: 27%;
-    margin-top: 5%;
     text-align: center;
 }
 
@@ -292,9 +291,6 @@ footer .right input{
     padding: 20px;
 }
 @media screen and (max-width: 1280px){
-    .banner{
-        margin-top: 13%;
-    }
     .card-about{
         max-width: none;
         margin-left: 5%;
@@ -327,34 +323,72 @@ footer .right input{
     }
 }
 @media screen and (max-width: 1024px){
-    .banner{
-        margin-top: 13%;
-    }
     #services-button{
         padding-left: 9%;
         padding-right: 9%;
     }
-}
-@media screen and (max-width: 812px){
-    .banner{
-        margin-top: 23%;
+    .about-img {
+        position: absolute;
+        top: -52%;
+        left: 3%;
+        z-index: -1;
+    }
+    .trainer-card{
+        width: auto;
+    }
+    .trainer-card-txt {
+        width: 140%;
+    }
+    .trainer-card-img {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: -140px;
+        left: 40px;
+        z-index: -1;
+    }
+    .trainer-card-img img {
+        border: solid;
+        width: 70%;
     }
 }
-@media screen and (max-width: 768px)
-{
-    .banner{
-        margin-top: 13%;
+@media screen and (max-width: 768px){
+    #services-button{
+        padding-left: 9%;
+        padding-right: 9%;
     }
-}  
-@media screen and (max-width: 736px){
-    .banner{
-        margin-top: 30%;
+    .about-img {
+        position: absolute;
+        top: -47%;
+        left: 3%;
+        z-index: -1;
+    }
+    .trainer-card{
+        width: auto;
+        padding-right: 14%;
+    }
+    .trainer-card-txt {
+        width: 140%;
+    }
+    .trainer-card-img {
+        width: 100%;
+        height: 100%;
+        position: absolute;
+        top: -140px;
+        left: 40px;
+        z-index: -1;
+    }
+    .trainer-card-img img {
+        border: solid;
+        width: 70%;
+    }
+    #formation-txt{
+        padding: 9px;
     }
 }
 @media screen and (max-width: 414px)
 {
     .banner{
-        margin-top: 20%;
         text-align: center;
         font-size: 11px;
     }
@@ -366,27 +400,63 @@ footer .right input{
 @media screen and (max-width: 411px)
 {
     .banner{
-        margin-top: 21%;
         font-size: 12px;
     }
 }
 @media screen and (max-width: 375px)
 {
     .banner{
-        margin-top: 22%;
         text-align: center;
         font-size: 11px;
     }
-}
-@media screen and (max-width: 360px)
-{
-    .banner{
-        margin-top: 22%;
+    #services-button{
+        padding-left: 9%;
+        padding-right: 9%;
     }
-}
-@media screen and (max-width: 320px)
-{
-    .banner{
-        margin-top: 24%;
+    .about-img {
+        position: absolute;
+        top: -20%;
+        left: 3%;
+        z-index: -1;
+    }
+    .trainer-card{
+        width: auto;
+        padding-right: 14%;
+        margin-left: ;
+    }
+    .trainer-card-txt {
+        width: 140%;
+        margin-left: 15%;
+    }
+    .trainer-card-img {
+        width: 110%;
+        height: 100%;
+        position: absolute;
+        top: -140px;
+        left: 45px;
+        z-index: -1;
+    }
+    .trainer-card-img img {
+        border: solid;
+        width: 70%;
+    }
+    #formation-txt{
+        padding: 3px;
+    }
+    #formation-img{
+        height: 32%;
+        left: 8px;
+    }
+    .card-service{
+        width: auto;
+        height: auto;
+    }
+    #coaching-img {
+        top: -95px;
+        left: 3px;
+        height: auto;
+    }
+    #coaching-txt{
+        width: 92%;
     }
 }

@@ -143,9 +143,6 @@ margin: 4%;
     height: 600px;
 }
 @media screen and (max-width: 1024px){
-    .service-banner{
-        margin-top: 13%;
-    }
     #img1{
         width: 350px;
         height: 450px;
@@ -156,9 +153,6 @@ margin: 4%;
     }
 }
 @media screen and (max-width: 812px){
-    .service-banner{
-        margin-top: 13%;
-    }
     #img1{
         width: 350px;
         height: 450px;
@@ -170,9 +164,6 @@ margin: 4%;
 }
 
 @media screen and (max-width: 640px){
-    .service-banner{
-        margin-top: 19%;
-    }
     #img1{
         width: 350px;
         height: 450px;
@@ -194,10 +185,5 @@ margin: 4%;
     }
     .img-big-owner{
         display: none;
-    }
-}
-@media screen and (max-width: 411px){
-    .service-banner{
-        margin-top: 19%;
     }
 }
