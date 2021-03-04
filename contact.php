@@ -7,6 +7,8 @@
     <title>Nous contacter</title>
     <link rel="stylesheet" href="css/contact.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/header-responsive.css">
+    <link rel="stylesheet" href="css/footer-responsive.css">
     <script src="js/map.js"></script>
 </head>
 <body>
@@ -31,7 +33,7 @@
                     <input type="text" placeholder="Entreprise">
                 </div>
                 <div class="tel-input">
-                    <input type="text" value="+33" disabled>
+                    <input type="text" class="pre-tel" value="+33" disabled>
                     <input type="tel" placeholder="0123456789">
                 </div>
                 <div class="option-input">
@@ -50,7 +52,7 @@
         </section>
         <section id="how-to-contact">
             <!-- MAP GOOGLE -->
-            <div id="map" style="width:400px;height:400px"></div>
+            <!-- <div style="width:400px;height:400px;background:#f1f1f1"></div> -->
 
             <div class="info-contact">
                 <h1>COMMENT NOUS <br> CONTACTER ?</h1>
@@ -124,6 +126,7 @@
       async
     ></script>
     <script src="js/contact.js"></script>
+    <script src="js/app.js"></script>
 
 </body>
 </html>

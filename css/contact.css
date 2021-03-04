@@ -31,8 +31,7 @@ body{
     text-align: center;
     width: 100%;
 }
-.contact-question h1{
-}
+
 
 .check {
     display: flex;
@@ -72,7 +71,7 @@ body{
     justify-content: center;
 }
 #form form {
-    width: 50%;
+    width: 70%;
     font-size: 20px;
 }
 #form input {
@@ -149,7 +148,7 @@ input[type="submit"]:hover{
     display: flex;
     flex-direction: column;
     justify-content: space-around;
-    width: 35%;
+    width: 75%;
     margin-left: 15px;
 }
 .info-contact p{
@@ -164,6 +163,9 @@ input[type="submit"]:hover{
 input#show-tel{
     height: 30px;
     padding: 3px;
+}
+input.pre-tel{
+    padding: 2px !important;
 }
 input#show-tel:hover{
     cursor: text;
@@ -181,6 +183,7 @@ input#show-mail:hover{
 
 .opening{
     width: 70%;
+    min-width: 253px;
     border: 2px solid rgb(53, 53, 53);
     padding: 5px;
     border-radius: 10px;

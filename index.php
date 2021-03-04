@@ -6,6 +6,8 @@
   <link rel="icon" href="../img/LogoWoodUpW.png" type="image/png" sizes="16x16">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/index.css">
+  <link rel="stylesheet" href="css/header-responsive.css">
+  <link rel="stylesheet" href="css/footer-responsive.css">
   <title>Wood'Up</title>
 </head>
 <body>
@@ -15,16 +17,11 @@
     <div class="div-container">
 
       <div class="banner">
-
+          <h1>
+            WOOD'UP FORMATIONS </br>VOUS ACCOMPAGNE DANS </br>VOS PROBLÉMATIQUES </br>FORRESTIÈRES ET BIEN PLUS
+          </h1>
+          <a href="services.php" id="services-button">DÉCOUVRIR NOS SERVICES</a>
       </div>
-
-
-      <section class="about">
-
-
-        <div class="about-img">
-
-        </div>
 
 
         <section class="about">
@@ -178,5 +175,6 @@
       </div>
 
     <?php include "php/footer.php"?>
+    <script src="js/app.js"></script>
 </body>
 </html>
