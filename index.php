@@ -3,11 +3,11 @@
 <head>
   <meta charset="UTF-8">
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <link rel="icon" href="../img/LogoWoodUpW.png" type="image/png" sizes="16x16">
+  <link rel="icon" href="img/LogoWoodUpW.png" type="image/png" sizes="16x16">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/index.css">
   <link rel="stylesheet" href="css/header-responsive.css">
-  <link rel="stylesheet" href="css/footer-responsive.css">
+  <link rel="stylesheet" href="css/header-responsive.css">
   <title>Wood'Up</title>
 </head>
 <body>
@@ -28,7 +28,7 @@
 
 
           <div class="about-img">
-            <img src="../img/mainpage_about_img.jpg" alt="forest image" width="40%" length="40%">
+            <img src="img/mainpage_about_img.jpg" alt="forest image" width="40%" length="40%">
           </div>
           
 
@@ -62,7 +62,7 @@
               </div>
 
               <div id="coaching-img">
-                <img src="../img/mainpage_coaching_img.jpg" alt="forest image" width="400" length="400">
+                <img src="img/mainpage_coaching_img.jpg" alt="forest image" width="400" length="400">
               </div>
 
             </div>
@@ -76,7 +76,7 @@
               </div>
 
               <div id="formation-img">
-                <img src="../img/mainpage_formation_img.jpg" alt="forest image" width="400" length="400">
+                <img src="img/mainpage_formation_img.jpg" alt="forest image" width="400" length="400">
               </div>
 
             </div>
@@ -145,7 +145,7 @@
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="../img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
               </div>
 
               <div class="trainer-card-txt">
@@ -158,7 +158,7 @@
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="../img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
               </div>
 
               <div class="trainer-card-txt">
