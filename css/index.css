@@ -17,46 +17,12 @@ a:hover {
     text-decoration: underline;
 }
 
-.menu {
-    display: flex;
-    flex-direction: row;
-    list-style: none;
-    justify-content: space-around;
-}
-
-header {
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    background-color: #BCBD8B;
-}
 .div-container{
     width: 100%;
-}
-.logo img {
-    width: 20%;
+    padding-top: 90px;
 }
 
-.nav-menu {
-    width: 50%;
-    
-}
 
-.nav-links {
-    padding: 1%;
-}
-
-footer{
-    background-color: #BCBD8B;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    padding: 5% 5%;
-}
-.link-container{
-    display: flex;
-    justify-content: center;
-}
 #contact-button{
     display:flex;
     justify-content: center;
@@ -186,8 +152,8 @@ footer .right input{
 }
 
 .card-service{
-    padding-left: 15%;
-    padding-right: 15%;
+    /* padding-left: 15%;
+    padding-right: 15%; */
     display: flex;
     justify-content: center;
     flex-direction: column-reverse;
