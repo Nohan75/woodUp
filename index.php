@@ -162,7 +162,7 @@ La suite, c’est à vous de l’écrire à nos côtés !</p>
               </div>
 
               <div class="trainer-card-txt">
-                <h2>HÉLÈNE BOLLIOT</h2>
+                <h2>HÉLÈNE <br>BOLLIOT</h2>
                   <a href="contact.php" id="contact-button"> DÉCOUVRIR </a>
               </div>
 

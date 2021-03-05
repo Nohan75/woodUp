@@ -1,4 +1,5 @@
 .who{
+    margin-top: 90px;
     display: flex;
     justify-content: center;
     margin-bottom: 5%;
@@ -135,6 +136,7 @@
 
 .clement-txt{
     max-width: 65%;
+    text-align: right;
 }
 
 .clement-card{
@@ -274,10 +276,6 @@
         text-align: center;
     }
 
-.clement-txt{
-    max-width: 65%;
-    text-align: end;
-}
 
 .trainers{
     display: flex;
