@@ -21,7 +21,7 @@
         <section class="articles-table">
         <div class="down">
                 <div class="article-card" id="quality-4">
-                    <h3>Achat/Vente de bois</h3>
+                    <h3>Achat / Vente de bois</h3>
                     <p>Si vous avez choisi un objectif de production, la vente de bois est le fruit de votre travail, et de ceux de vos parents ou grands-parents. Il faut donc que vous connaissiez les tenants et aboutissants de cette tâche plus complexe qu’elle n’y parait. Grâce à notre réseau, nous vous conseillons sur les différents aspects techniques et sur les erreurs à ne pas faire.</p>
                 </div>
 
@@ -88,6 +88,7 @@
             <div class="big-owner-container-txt">
 
             <h2>VOUS ÊTES UN GROS PROPRIÉTAIRE</h2>
+            <br><br>
             <h3>Vous possédez plusieurs hectares ?</h3>
             <p>Nous vous accompagnons dans la gestion au long terme de votre propriété, et ce sur tous les domaines concernant votre forêt (administratif, fiscalité, gestion de coupe, plan de gestion, etc.).
             <br>Contactez-nous directement pour nous présenter votre projet !</p>
