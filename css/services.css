@@ -23,7 +23,7 @@
     margin: 2%;
 }
 .article-img{
-    background-image: url('../img/bg_forest.jpg');
+    background-image: url('../img/img11.jpg');
     border: solid;
     border-radius:15px;
     width: 32%;
@@ -31,6 +31,35 @@
     margin-right: 1%;
     
 }
+
+.article-img2{
+    background-image: url('../img/img17.jpg');
+    border: solid;
+    border-radius:15px;
+    width: 32%;
+    margin-left: 1%;
+    margin-right: 1%;
+    
+}
+.article-img3{
+    background-image: url('../img/img15.jpg');
+    border: solid;
+    border-radius:15px;
+    width: 32%;
+    margin-left: 1%;
+    margin-right: 1%;
+    
+}
+.article-img4{
+    background-image: url('../img/img16.jpg');
+    border: solid;
+    border-radius:15px;
+    width: 32%;
+    margin-left: 1%;
+    margin-right: 1%;
+    
+}
+
 .article-card{
     padding: 4%;
 }
@@ -87,7 +116,7 @@
     position: relative;
 }
 .little-owner-container-img{
-    background-image: url('../img/bg_forest.jpg');
+    background-image: url('../img/img13.jpg');
     width: 40%;
     height: 600px;
     border: solid;
@@ -157,7 +186,13 @@ font-size: 30px;
     border-radius: 10px;
 }
 .big-owner-container-img{
-    background-image: url('../img/bg_forest.jpg');
+    background-image: url('../img/img8.jpg');
+    margin: 5%;
+    border: solid;
+    border-radius: 15px;
+}
+.big-owner-container-img2{
+    background-image: url('../img/img14.jpg');
     margin: 5%;
     border: solid;
     border-radius: 15px;

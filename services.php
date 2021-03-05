@@ -36,14 +36,14 @@
             </div>
             <div class="up">
 
-                <div class="article-img"></div>
+                <div class="article-img2"></div>
 
                 <div class="article-card" id="quality-1">
                     <h3>Sylviculture</h3>
                     <p>La France possède de nombreux contextes forestiers différents. Chaque essence réagit différemment et doit être conduite selon ses propres règles. Grâce à notre expérience sur plusieurs régions de France, nous sommes force de proposition pour que vous puissiez mener à bien vos peuplements. </p>
                 </div>
 
-                <div class="article-img"></div>
+                <div class="article-img3"></div>
 
             </div>
 
@@ -53,7 +53,7 @@
                     <p>Nous traversons une période où les certitudes se dissipent. Il devient compliqué de savoir comment les arbres vont s’adapter à notre climat. Grâce à notre expérience dans le monde de la Recherche, nous avons été amenés à travailler sur des problématiques d’adaptation. Ainsi, nous vous donnons toutes les pistes et conseils pour que vous puissiez faire le choix le plus judicieux.</p>
                 </div>
 
-                <div class="article-img"></div>
+                <div class="article-img4"></div>
                 
                 <div class="article-card" id="quality-3">
                     <h3>Diagnostic arbre</h3>
@@ -118,7 +118,7 @@
 
                 </div>
 
-                <div class="big-owner-container-img" id="img2">
+                <div class="big-owner-container-img2" id="img2">
 
                 </div>
             </div>

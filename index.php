@@ -158,7 +158,7 @@ La suite, c’est à vous de l’écrire à nos côtés !</p>
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="img/blank-avatar.jpg" alt="forest image" width="35%" length="40%">
               </div>
 
               <div class="trainer-card-txt">
@@ -171,7 +171,7 @@ La suite, c’est à vous de l’écrire à nos côtés !</p>
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="img/blank-avatar.jpg" alt="forest image" width="35%" length="40%">
               </div>
 
               <div class="trainer-card-txt">
