@@ -16,6 +16,8 @@
     margin: 2%;
     padding: 1.3%;
     border: 3px solid;
+    width: 45%;
+    min-width: 250px;
 }
 
 .ab{
