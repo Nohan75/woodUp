@@ -142,7 +142,6 @@
     border: black solid;
     border-radius: 15px;
 }
-<<<<<<< HEAD
 @media screen and (max-width: 1280px)
 {
     html{
@@ -270,7 +269,6 @@
     .who{
         text-align: center;
     }
-=======
 
 .clement-txt{
     max-width: 65%;
@@ -280,5 +278,4 @@
 .trainers{
     display: flex;
     flex-direction: column;
->>>>>>> 30231f1b00da9156f83252bccdfb280c9bfc80f0
 }
