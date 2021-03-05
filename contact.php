@@ -57,7 +57,7 @@
             <div class="info-contact">
                 <h1>COMMENT NOUS <br> CONTACTER ?</h1>
                 <p class="text-contact">
-                    Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dignissimos libero culpa sequi vel quos corporis ex fugit sunt sed, consectetur hic odit animi laboriosam sapiente accusamus eius natus soluta illum aliquid iure nulla, eum quod rem quo. Dolorum ipsum optio sunt fuga ab culpa molestiae.
+                    
                 </p>
                 <div class="check">
                     <div class="tel-choice">
