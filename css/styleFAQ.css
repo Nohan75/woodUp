@@ -3,6 +3,7 @@
     margin-bottom: 5%;
     background-image:linear-gradient(rgba(239, 241, 237, 1), rgba(113, 119, 68, 0.5)), url('../img/bg_forest.jpg');    padding: 7%;
     text-shadow: black;
+    margin-top: 90px;
 }
 
 .who h2{

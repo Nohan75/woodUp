@@ -7,14 +7,15 @@ const mailInput = document.querySelector("input#show-mail");
 const openingChoice = document.querySelector('input#openingtime');
 const openingTab = document.querySelector('.opening');
 
+/**
+ * Évènements qui permettent d'afficher les numéros de téléphone, email, et les horaires d'ouverture
+ * Ajoute et enlève l'attribut hidden
+ */
 telChoice.addEventListener("change", () => {
-    // telInput.setAttribute("hidden", "");
-    // telInput.removeAttribute("hidden");
     telInput.toggleAttribute("hidden");
 });
 
 mailChoice.addEventListener("change", () => {
-    // mailInput.removeAttribute("hidden");
     mailInput.toggleAttribute("hidden");
 });
 

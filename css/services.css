@@ -167,6 +167,9 @@ font-size: 30px;
         width: 350px;
         height: 600px;
     }
+    .service-banner{
+        margin-top: 90px;
+    }
 }
 @media screen and (max-width: 812px){
     #img1{
@@ -189,7 +192,7 @@ font-size: 30px;
         height: 600px;
     }
     .little-owner-container {
-        margin: 5% 5% 79% 10%;
+        margin: 5% 5% 800px 10%;
     }
     .big-owner-container-img{
         background-image: none;

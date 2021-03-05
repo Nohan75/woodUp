@@ -32,7 +32,7 @@ input.toggler{
     height: 25px;
 }
 .nav-menu label{
-    width: 100%;
+    display: block;
 }
 .burger{
     display: none;
