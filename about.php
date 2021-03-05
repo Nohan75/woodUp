@@ -80,15 +80,15 @@
                 <p>Entrepreneure dans l’âme, j’ai décidé de me lancer  très tôt dans l’aventure de la création d’entreprise. À 23 ans, j’ai fondé Wood’Up avec une ambition claire : valoriser les forêts et les Hommes qui y travaillent. 
                     De Lille à Montpellier en passant par Nancy, Bruxelles et Paris, j’ai sillonné la France et la Belgique pour tout connaître de mon métier. Finalement, j’ai décidé de revenir m’installer dans me Picardie natale pour ancrer mes projets dans un territoire qui me tient à cœur.
                     J’interviens principalement sur la moitié Nord de la France, de la Bourgogne aux hauts de France !</p>
-                    <h3>EXPERIENCE </h3>
-
+                    <br><h3>EXPERIENCE </h3>
+                    <br>
                 <p>Ingénieure agronome - Spécialité Ressources Forestières et Filière Bois<br>
                 Administratrice de l’Association Française des Eaux et Forêts (AFEF)<br>
                 Titulaire d’une Licence de Droit de l’Université Panthéon-Assas<br>
                 Secrétaire Générale de l’association Restaurons Notre Dame (RND)</p>
-
+                <br>
                 <h3>CONTACT</h3>
-
+                <br>
                 <p>+33 6 29 44 38 98</p>
 
 
@@ -103,18 +103,19 @@
             <H2>Clément Lachaud</H2>
                 <br>
                 <h3>A PROPOS</h3>
+                <br>
                 <p>La forêt a toujours été pour moi une source d’imagination incroyable. Étant touche à tout et souhaitant travailler dans la nature, je me suis naturellement tourné vers le métier de forestier.
                 Après une expérience de trois ans en tant qu’acheteur de bois, je suis parti à la découverte des forêts tropicales lors d’un voyage de dix mois en Amérique latine. À mon retour en France, je me suis associé à Wood’Up afin de développer de nouveaux projets qui me sont chers.
                 Originaire de Lyon, j’interviens principalement sur la moitié Sud de la France, de l’Auvergne à l’Occitanie !</p>
-                <h3>EXPERIENCE </h3>
+                <br><h3>EXPERIENCE </h3>
 
-                <p>Spécialisé en Gestion et Commercialisation des Produits Bois (Licence Professionnelle)<br>
+                <br><p>Spécialisé en Gestion et Commercialisation des Produits Bois (Licence Professionnelle)<br>
                 Ambassadeur de l’ONGE Forestiers du Monde<br>
                 Co-Fondateur de l’association Nos Eco’Liées</p>
 
-                <h3>CONTACT</h3>
+                <br><h3>CONTACT</h3>
 
-                <p>+33 6 35 30 79 26</p>
+                <br><p>+33 6 35 30 79 26</p>
             </div>
         </div>
     </div>
