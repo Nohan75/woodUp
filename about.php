@@ -7,6 +7,8 @@
     <title>Wood'up</title>
     <link rel="stylesheet" href="css/styleabout.css">
     <link rel="stylesheet" href="css/style.css">
+    <link rel="stylesheet" href="css/header-responsive.css">
+    <link rel="stylesheet" href="css/footer-responsive.css">
 </head>
 <body>
     <?php include "php/header.php" ?>
@@ -47,32 +49,19 @@
 
         </div>
         <div class="training-txt">
-            <h2>WOOD'UP FORMATION</h2>
-            <p>Lorem ipsum, dolor sit amet consectetur adipisicing</br>
-                elit. Voluptatibus, id incidunt repellendus explicabo</br>
-                 maiores ab minima cum ut accusantium, amet accusamus! </br>
-                 Fugiat aspernatur minima numquam qui eaque vero commodi</br>
-                  cupiditate soluta modi, laborum quod explicabo officiis!</br>
-                   Nihil, repellendus animi? Voluptatum fuga, placeat voluptate</br>
-                    sint, nam perspiciatis iusto, magni tempore sed provident porro</br>
-                     velit! Est quas facilis dicta nesciunt praesentium.</br></br>
-                      Est at aliquid delectus, quis maxime sapiente nulla quaerat </br>
-                      doloribus possimus molestias, nam explicabo expedita reiciendis</br>
-                       cumque perspiciatis hic et tenetur, id in facilis! Molestias</br>
-                        deleniti esse, labore impedit, sint consequatur veritatis dolor</br>
-                          assumenda cum reiciendis, odio modi neque ipsum.</br> Voluptatum officia,
-                           corrupti id similique aliquam delectus explicabo aliquid optio sit</br>
-                            quod a ullam adipisci sed hic? Necessitatibus sunt optio</br>
-                             perferendis est odio temporibus corrupti dolore aspernatur,</br>
-                              rem excepturi, soluta minima ab iure recusandae aliquid asperiores</br>
-                               reprehenderit ea, consequuntur alias aliquam iusto adipisci ipsa?</br></br>
-                                Itaque, a assumenda. Deserunt, consequatur ipsum nihil qui</br>
-                                 asperiores quaerat accusamus corrupti a iusto quas similique</br>
-                                  saepe necessitatibus, sapiente quos dignissimos veritatis dolorum</br>
-                                   consequuntur deleniti nisi sint aut perferendis dicta architecto!</br>
-                                    Eum quo provident ullam molestias! Dolorem beatae pariatur ad numquam</br>
-                                     sint explicabo dolores sequi, eligendi autem, eum optio laboriosam facere</br>
-                                      quas quaerat hic. Esse, nesciunt dicta!
+            <h2>WOOD'UP FORMATION</h2><br>
+            <h3>L’outil numérique innovant pour gérer vos bois de manière autonome !</h3><br>
+            <p>Vous êtes propriétaire de bois et souhaitez des réponses à vos questions ? <br> Vous souhaitez être conseillé pour savoir comment <br> résoudre une problématique sur votre bois et sa gestion ? <br><br>
+            Wood’up Formation vous donne les solutions et les réponses à vos questions. <br>
+            Nous sommes Hélène Bolliot et Clément Lachaud. Nous sommes ingénieurs forestiers. <br> Nous avons créé cette plateforme pour aider les propriétaires <br> à résoudre toutes leurs problématiques liées à leurs bois. <br><br>
+            Notre aide est dédiée aux petits et grands propriétaires. <br><br>
+
+Formateurs : <br><br>
+
+Fondatrice et Président <br>
+Hélène Bolliot
+
+
            </p><br>
            <a href="#" id="contact-button">NOTRE OFFRE</a>
         </div>
@@ -108,16 +97,13 @@
         <div class="clement-txt">
             <br>
             <h2>Clement Lachaud</h2>
-            <br>
-            <p>Lorem ipsum dolor, sit amet consectetur
-                adipisicing elit. Adipisci</br> 
-                blanditiis aliquid nobis est
-                cupiditate maxime velit quia sed </br>
-                amet repellendus, autem commodi, ipsum maiores</br> 
-                 saepe dolorem natus 
-                dolores! Ipsa, esse?</p>
+            <p>Entrepreneure dans l’âme, j’ai décidé de me lancer  très tôt dans l’aventure <br>de la création d’entreprise. À 23 ans, j’ai fondé Wood’Up avec une ambition claire :<br> valoriser les forêts et les Hommes qui y travaillent. <br>
+                De Lille à Montpellier en passant par Nancy, Bruxelles et Paris, <br>j’ai sillonné la France et la Belgique pour tout connaître de mon métier. <br>Finalement, j’ai décidé de revenir m’installer dans me Picardie natale<br> pour ancrer mes projets dans un territoire qui me tient à cœur.
+                <br>J’interviens principalement sur la moitié Nord de la France,<br> de la Bourgogne aux hauts de France !
+            </p>
         </div>
     </div>
     <?php include "php/footer.php" ?>
+    <script src="js/app.js"></script>
 </body>
 </html>

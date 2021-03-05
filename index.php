@@ -8,6 +8,8 @@
   <link rel="stylesheet" href="css/index.css">
   <link rel="stylesheet" href="css/style.css">
   <link rel="stylesheet" href="css/effects.css">
+  <link rel="stylesheet" href="css/header-responsive.css">
+  <link rel="stylesheet" href="css/footer-responsive.css">
   <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
   <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.4.1/js/bootstrap.min.js"></script>
   <title>Wood'Up</title>
@@ -156,7 +158,7 @@ La suite, c’est à vous de l’écrire à nos côtés !</p>
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="../img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
               </div>
 
               <div class="trainer-card-txt">
@@ -169,7 +171,7 @@ La suite, c’est à vous de l’écrire à nos côtés !</p>
             <div class="trainer-card">
 
               <div class="trainer-card-img">
-                <img src="../img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
+                <img src="img/bg_forest.jpg" alt="forest image" width="35%" length="40%">
               </div>
 
               <div class="trainer-card-txt">
@@ -186,5 +188,6 @@ La suite, c’est à vous de l’écrire à nos côtés !</p>
       </div>
 
     <?php include "php/footer.php"?>
+    <script src="js/app.js"></script>
 </body>
 </html>

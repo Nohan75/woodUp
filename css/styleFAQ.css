@@ -22,6 +22,8 @@
     padding: 1.3%;
     border: 3px solid;
     border-radius: 15px;
+    width: 45%;
+    min-width: 250px;
 }
 
 .ab{
