@@ -133,6 +133,10 @@
     max-width: 65%;
 }
 
+.clement-txt{
+    max-width: 65%;
+}
+
 .clement-card{
     margin-top: 1%;
     margin-left: 1%;
@@ -278,4 +282,5 @@
 .trainers{
     display: flex;
     flex-direction: column;
+}
 }
